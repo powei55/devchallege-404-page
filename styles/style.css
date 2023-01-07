@@ -33,6 +33,7 @@ p {
 
 nav {
     margin-bottom: 1em;
+    margin-left: 7em;
 }
 
 
@@ -96,7 +97,6 @@ footer {
 @media (min-width:680px) {
     main {
         flex-direction: row;
-        justify-content: space-between;
         align-items: center;
         margin-bottom: 7em;
     }
@@ -110,7 +110,7 @@ footer {
     }
 
     .main-info {
-        margin-left: 3em;
+        margin-left: 5em;
     }
 
     h2 {
