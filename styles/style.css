@@ -33,7 +33,6 @@ p {
 
 nav {
     margin-bottom: 1em;
-    margin-left: 7em;
 }
 
 
@@ -107,6 +106,7 @@ footer {
     
     nav {
         margin-bottom: 2em;
+        margin-left: 7em;
     }
 
     .main-info {
