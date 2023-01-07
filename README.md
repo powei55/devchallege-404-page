@@ -46,7 +46,6 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 ## Features
 
-
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
 
@@ -58,6 +57,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/powei55})
-- Twitter [@your-twitter](https://{twitter.com/@powei55})
+- GitHub [@powei55](https://{github.com/powei55})
+- Twitter [@powei55](https://{twitter.com/@powei55})
 # 404_page-dev
